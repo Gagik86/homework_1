@@ -13,5 +13,4 @@ function foo() {
     li.appendChild(span2);
     span1.classList.add('name');
     span2.classList.add('delete');
-
 }
